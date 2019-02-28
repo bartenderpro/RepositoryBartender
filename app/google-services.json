@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "366783254573",
+    "firebase_url": "https://bdbartender-v1.firebaseio.com",
+    "project_id": "bdbartender-v1",
+    "storage_bucket": "bdbartender-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366783254573:android:5e448d6645c39a66",
+        "android_client_info": {
+          "package_name": "com.example.eduar.bartenderpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366783254573-micak8qofds0hlkjpqoccf0ls3efab0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eduar.bartenderpro",
+            "certificate_hash": "59055333375edf3a1d282d51ed219391c681bf2a"
+          }
+        },
+        {
+          "client_id": "366783254573-vroi0j2vdmjr9ilqehf5bf05tt356nhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApqjH7HyBy7hWr0D2njK8mvZfpKpNN7_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366783254573-vroi0j2vdmjr9ilqehf5bf05tt356nhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
