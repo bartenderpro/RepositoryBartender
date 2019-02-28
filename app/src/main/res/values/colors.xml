@@ -5,4 +5,5 @@
     <color name="colorAccent">#d9251c</color>
     <color name="text_color">#ffffff</color>
     <color name="backgound_login">#293243</color>
+    <color name="textcolor_padrao">#757575</color>
 </resources>
