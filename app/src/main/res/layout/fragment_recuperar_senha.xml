@@ -54,7 +54,7 @@
         android:hint="@string/email">
 
         <android.support.v7.widget.AppCompatEditText
-            android:id="@+id/et_senha"
+            android:id="@+id/et_recuperar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
@@ -62,9 +62,8 @@
 
     </android.support.design.widget.TextInputLayout>
 
-
     <android.support.v7.widget.AppCompatButton
-        android:id="@+id/btn_entrar"
+        android:id="@+id/btn_recuperar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
